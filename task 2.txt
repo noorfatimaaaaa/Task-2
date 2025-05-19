@@ -1,0 +1,15 @@
+print("hello world")
+hello world
+x=1
+print(x)
+1
+x=input("enter a number")
+enter a number 9
+print(x)
+9
+input("enter your name")
+enter your name Noor Fatima
+'Noor Fatima'
+a=5
+b=5
+c=a+b
